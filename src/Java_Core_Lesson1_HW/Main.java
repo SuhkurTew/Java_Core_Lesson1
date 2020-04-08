@@ -13,7 +13,7 @@ public class Main {
         double typeDouble = 1.7e+308;
         char typeChar = 'z';
         boolean typeBoolean = false;
-        String typeString = "Say hello to my little friend!";
+        String typeString = "Say hello to my little friend!!!";
 
         //Вычисление выражение a * (b + (c / d))
         System.out.println("Значение выражения = " + calculateExpression(2.0,4.0,1.0, 2.0));
